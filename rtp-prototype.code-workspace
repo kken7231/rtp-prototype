@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"[c]": {
+			"editor.defaultFormatter": "ms-vscode.cpptools"
+		},
+		"[cpp]": {
+			"editor.defaultFormatter": "ms-vscode.cpptools"
+		},
+		"C_Cpp.default.includePath": ["./lib/libsrtp/include"]
+	},
+	"extensions": {
+		"recommendations": ["ms-vscode.cmake-tools", "ms-vscode.cpptools-extension-pack", "shardulm94.trailing-spaces", "eamodio.gitlens", "esbenp.prettier-vscode"]
+	}
+}
