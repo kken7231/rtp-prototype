@@ -1,3 +1,8 @@
-/lib/**/*
+# Ignore the entire /lib directory
+/lib
+
+# Ignore the entire /build directory, used for temporary build files
 /build
+
+# Ignore the entire /bin directory, used for binary output files
 /bin
